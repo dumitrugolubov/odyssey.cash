@@ -23,5 +23,9 @@ export default defineConfig({
   },
   themeConfig: {
     // ... rest of your existing themeConfig
-  }
+  },
+  head: [
+    ['link', { rel: 'icon', type: 'image/png', href: '/favicon.png' }],
+    ['link', { rel: 'icon', type: 'image/svg+xml', href: '/favicon.svg' }]
+  ]
 })
