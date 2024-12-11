@@ -10,14 +10,11 @@ hero:
     alt: "Odyssey Exchange"
   actions:
     - theme: brand
-      text: "Стать Партнером"
-      link: /partnership
-    - theme: alt
-      text: "Наши Решения"
-      link: /solutions
-    - theme: alt
       text: "Перейти на биржу"
-      link: https://odyssey.trade/register?inviteCode=EAATH
+      link: https://odyssey.trade/register?inviteCode=EAATH)
+    - theme: alt
+      text: "Стать партнером"
+      link: /partnership
 
 features:
   - icon: "🚀"
