@@ -11,7 +11,7 @@ hero:
   actions:
     - theme: brand
       text: "Перейти на биржу"
-      link: https://odyssey.trade/register?inviteCode=EAATH
+      link: https://ody.lol
     - theme: alt
       text: "Стать партнером"
       link: /partnership
