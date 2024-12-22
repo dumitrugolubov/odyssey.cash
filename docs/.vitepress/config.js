@@ -1,5 +1,5 @@
 export default {
-  title: 'Odyssey Exchange',
+  title: 'Odyssey Exchange | Первая мемкоин биржа Exchange',
   description: 'Ваша Надежная Централизованная Криптобиржа',
   themeConfig: {
     nav: [
