@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  title: "Odyssey Exchange",
+  title: "Odyssey Exchange | Первая Memecoin Биржа",
   description: "Первая Мем биржа, ликвидации никогда еще не были такими веселыми!",
   sitemap: {
     hostname: 'https://odyssey.cash',
